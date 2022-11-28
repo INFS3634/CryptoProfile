@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347519017593",
+    "firebase_url": "https://cryptoprofile-d302c-default-rtdb.firebaseio.com",
+    "project_id": "cryptoprofile-d302c",
+    "storage_bucket": "cryptoprofile-d302c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347519017593:android:815d63d44a5c6a520baaa8",
+        "android_client_info": {
+          "package_name": "au.edu.unsw.infs3634.cryptoprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347519017593-2rk938bnqcbm5nsgodnepjbnv54dh11q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclJ3v_Jb2jDjRLuP74s-Io7UtWfCDn6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347519017593-2rk938bnqcbm5nsgodnepjbnv54dh11q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
